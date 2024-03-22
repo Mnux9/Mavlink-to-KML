@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <NetworkLink id="2">
+            <name>Mavlink to Google Earth pipe</name>
+            <open>1</open>
+            <Link id="3">
+                <href>lookAt.kml</href>
+                <refreshMode>onInterval</refreshMode>
+                <refreshInterval>1</refreshInterval>
+            </Link>
+        </NetworkLink>
+    </Document>
+</kml>

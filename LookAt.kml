@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Placemark id="3">
+            <name>A LineString</name>
+            <LookAt>
+                <longitude>18.56852</longitude>
+                <latitude>-34.028242</latitude>
+                <heading>20</heading>
+                <tilt>80</tilt>
+                <range>20</range>
+                <gx:altitudeMode>relativeToSeaFloor </gx:altitudeMode>
+            </LookAt>
+            <LineString id="2">
+                <extrude>1</extrude>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>18.443868,-34.038274,10.0 18.370618,-34.034421,10.0</coordinates>
+            </LineString>
+        </Placemark>
+    </Document>
+</kml>
